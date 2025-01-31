@@ -1,0 +1,37 @@
+# Fichiers Unity à ignorer
+
+# Dossiers temporaires
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Fichiers de cache
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore les fichiers de configuration Unity
+*.pidb.meta
+*.pdb
+*.opendb
+
+# Ignore les données locales utilisateur
+UserSettings/
+
+# Fichiers spécifiques à Visual Studio
+.vs/
+*.csproj.user
+
+# Fichiers Mac
+.DS_Store
